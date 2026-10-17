@@ -1,10 +1,8 @@
 # Encrypted Chat — Android-клиент
 
 Нативный проект для Android Studio, Java, Android 7.0 и новее (**minSdk 24**).
-compileSdk/targetSdk — 35. Приложение работает с основным режимом
-[index.php + web.html](https://github.com/one-loner/encrypted-web_chat_v1.2)
-репозитория one-loner/encrypted-web_chat_v1.2, проверенным на коммите
-`63c5cce3abfae81ebd42a9e46df8695fba0ef087`.
+compileSdk/targetSdk — 35.       
+Репозиторий сервера для разворачивания на собственном VPS и хостинга находится в [данном репозитории](https://github.com/one-loner/EncryptedChatAndroid)   
 
 ## Возможности
 
